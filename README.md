@@ -15,31 +15,11 @@ A genetic algorithm that inputs a target string and develops it from random via 
 ### [RushHour][2]
 This program solves Rush Hour puzzles.
 
-     1 2 3 4 5 6 
-   +-------------+
- 1 | A A . . . O |
- 2 | P . . Q . O |
- 3 | P X X Q . O    ==>
- 4 | P . . Q . . |
- 5 | B . . . C C |
- 6 | B . R R R . |
-   +-------------+
-
 ### [KnapsackProblem][3]
 This program solves the known knapsack problem (weighted).
 
-
 ### [NQueensProblem][4]
 This program solves the known NQueens problem.
-
-| | | | |Q| | | |
-| | | | | | | |Q|
-| | | |Q| | | | |
-| | | | | | | | |
-| | |Q| | | | | |
-| | | | | |Q| | |
-| |Q| | | | | | |
-| | | | | | |Q| |
 
 ### [GraphColoring][5]
 This program inputs a graph and outputs the chromatic number of that graph, meaning - the minimum amount of colors that can be used to color the graph so that no edge is made of two vertices of the same color.
